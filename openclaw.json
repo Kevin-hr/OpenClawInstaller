@@ -1,0 +1,17 @@
+{
+  "agents": {
+    "defaults": {
+      "workspace": "C:\\Users\\52648\\.openclaw\\workspace"
+    }
+  },
+  "commands": {
+    "native": "auto",
+    "nativeSkills": "auto",
+    "restart": true,
+    "ownerDisplay": "raw"
+  },
+  "meta": {
+    "lastTouchedVersion": "2026.2.26",
+    "lastTouchedAt": "2026-03-01T22:41:11.716Z"
+  }
+}
